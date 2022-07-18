@@ -1,4 +1,6 @@
 <?php
+namespace fawziyahfitwalla\searchEngineCrawler
+	
 class searchEngine{
 	
 	public function setEngine($str='google.com'){
