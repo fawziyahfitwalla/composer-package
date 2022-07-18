@@ -1,0 +1,19 @@
+{
+    "name": "fawzi/dmcc",
+    "description": "DMCC Technical Test",
+    "type": "project",
+    "require": {
+        "simplehtmldom/simplehtmldom": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fawzi\\Dmcc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fawziyah"
+        }
+    ],
+    "minimum-stability": "dev"
+}
